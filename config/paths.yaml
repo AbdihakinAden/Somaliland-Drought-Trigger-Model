@@ -1,0 +1,16 @@
+data_raw: "data/raw/"
+data_processed: "data/processed/"
+results: "results/"
+spi_tif: "data/raw/spi_tif/"
+boundaries: "data/raw/admin_boundaries/ABDI.shp"
+merged: "data/processed/merged_for_models.csv"
+
+predictions:
+  model0: "results/validation/model0_predictions.csv"
+  model1: "results/validation/model1_predictions.csv"
+  model2: "results/validation/model2_predictions.csv"
+
+metrics:
+  model0: "results/validation/model0_metrics.csv"
+  model1: "results/validation/model1_metrics.csv"
+  model2: "results/validation/model2_metrics.csv"

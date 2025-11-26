@@ -1,0 +1,10 @@
+spi_min: -2.5
+spi_max: 2.5
+dry_threshold: -1
+
+model_thresholds:
+  - 25
+  - 30
+  - 40
+
+gamma: 0.2
