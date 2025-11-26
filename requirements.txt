@@ -1,0 +1,9 @@
+pandas
+numpy
+geopandas
+rasterio
+rasterstats
+matplotlib
+seaborn
+jupyter
+notebook
